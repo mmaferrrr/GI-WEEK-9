@@ -25,6 +25,7 @@ body {
 
 .input-section {
     margin-bottom: 20px;
+    @include gradient(#9bcde3, #26698d);
 }
 
 button {
