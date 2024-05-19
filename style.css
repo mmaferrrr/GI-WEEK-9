@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
+  background: linear-gradient(to right, #8fc2d8, #29749d);
   margin: 0;
   padding: 0;
 }
@@ -19,7 +19,6 @@ body {
 
 .input-section {
   margin-bottom: 20px;
-  background: linear-gradient(to right, #9bcde3, #26698d);
 }
 
 button {
